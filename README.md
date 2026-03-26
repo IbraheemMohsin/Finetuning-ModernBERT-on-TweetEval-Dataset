@@ -17,6 +17,10 @@ Multi-task, single-label classification:
 - One label per task
 - Missing labels masked with -100
 
+## Dataset
+33 CSV files:
+emoji_train.csv, emotion_train.csv, hate_train.csv etc.
+
 
 ## Training
 - CrossEntropyLoss per task
