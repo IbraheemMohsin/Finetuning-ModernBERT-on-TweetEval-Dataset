@@ -24,7 +24,7 @@ I used the **TweetEval dataset**:
 
 Dataset Structure:
 - 33 CSV files:
-- emoji_train.csv, emotion_train.csv, hate_train.csv etc.
+- emoji_train.csv, emotion_train.csv, hate_train.csv... etc.
 
 
 ## Training
