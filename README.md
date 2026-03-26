@@ -24,7 +24,7 @@ I used the **TweetEval dataset**:
 
 Dataset Structure:
 - 33 CSV files:
-- emoji_train.csv,&nbsp;&nbsp;&nbsp;emotion_train.csv,&nbsp;&nbsp;&nbsp;hate_train.csv ..... etc.
+- emoji_train.csv,&nbsp;&nbsp;&nbsp;emotion_train.csv,&nbsp;&nbsp;&nbsp;hate_train.csv .... etc.
 
 
 ## Training
@@ -35,7 +35,7 @@ Example:
 predict("I love this 😁")
 
 Output:
-{'emoji': 16 - "😁 (beaming)",&nbsp;&nbsp;&nbsp;'sentiment': 1 - "neutral",&nbsp;&nbsp;&nbsp;'emotion': 1 - "joy" ..... and so on for every task}
+{'emoji': 16 - "😁 (beaming)",&nbsp;&nbsp;&nbsp;'sentiment': 1 - "neutral",&nbsp;&nbsp;&nbsp;'emotion': 1 - "joy" .... and so on for every task}
 
 ## Installation
 pip install torch transformers pandas tqdm
