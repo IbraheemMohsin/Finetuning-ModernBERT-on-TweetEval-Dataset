@@ -18,7 +18,7 @@ Multi-task, single-label classification:
 - Missing labels masked with -100
 
 ## Dataset
-I used the **TweetEval dataset**:
+**TweetEval dataset** is used:
 
 🔗 https://huggingface.co/datasets/cardiffnlp/tweet_eval
 
